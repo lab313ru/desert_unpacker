@@ -1,2 +1,2 @@
 # desert_unpacker
-Desert Strike game data unpacker (LZ77)
+(Sega Mega Drive / Sega Genesis) Desert Strike game data unpacker (LZ77) 
